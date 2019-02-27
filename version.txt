@@ -5,3 +5,4 @@ v0.4
 v0.5
 will upgrade to release version
 
+note: 每个客户端取回 master 的主版本，其提交历史与服务器上的 master 主版本提交历史一致
